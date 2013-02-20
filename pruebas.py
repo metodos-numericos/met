@@ -1,5 +1,6 @@
 from numpy import *
 from math import sqrt, pi
+import es.era
 
 def raizCuadrada():
     print 2.0*sqrt(10.0/pi)
@@ -45,4 +46,5 @@ if __name__ == '__main__':
     #formatearNumeros()
     #puntoFlotante()
     #exceptionalValues()
-    simpleArrays()
+    #simpleArrays()
+    
